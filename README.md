@@ -1,7 +1,3 @@
-# Test
-## test2
-![alt text](images/test.png)
-### test3
-```python
-import os
-```
+# Writeups
+
+This is a work in progess, but I'm going to start pushing my CTF notes to this project.
